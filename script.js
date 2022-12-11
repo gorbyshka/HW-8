@@ -14,5 +14,4 @@ switch (numOrStr) {
         break;
     default:
         console.log('ok');
-        break;
 }
